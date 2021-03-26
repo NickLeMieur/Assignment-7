@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lemie\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lemie\\.nuget\\packages"
+    ]
+  }
+}
